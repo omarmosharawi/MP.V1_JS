@@ -22,3 +22,9 @@ You can access the live demo of the web application here: https://omarmosharawi.
 ## Installation
 
 To run the web application locally, you need to clone the repository and open the index.html file in your browser. Alternatively, you can use a local web server to serve the files.
+
+Contact
+If you have any questions, suggestions, or feedback, feel free to contact me at:
+- Email: omarmosharawi@gmail.com
+- Instagram: @omarmosharawi
+- Twitter: @omarmosharawi
