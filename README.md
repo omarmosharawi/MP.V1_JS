@@ -16,14 +16,6 @@ MP_JS is a simple music player web application with ready songs listed.
 - **HTML**, **CSS**, and **JavaScript**
 - **GitHub Pages** for hosting the web application
 
-## Demo
-
-You can access the live demo of the web application here: [MP_JS](^1^)
-
 ## Installation
 
 To run the web application locally, you need to clone the repository and open the index.html file in your browser. Alternatively, you can use a local web server to serve the files.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
