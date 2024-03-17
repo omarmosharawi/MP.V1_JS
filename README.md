@@ -17,7 +17,7 @@ MP_JS is a simple music player web application with ready songs listed.
 - **GitHub Pages** for hosting the web application
 
 ## Demo
-You can access the live demo of the web application here: [MP_JS](https://omarmosharawi.github.io/MP_JS/)
+You can access the live demo of the web application here: [Music Player](https://omarmosharawi.github.io/MP.V1_JS/)
 
 ## Installation
 
